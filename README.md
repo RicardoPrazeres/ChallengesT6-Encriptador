@@ -1,21 +1,19 @@
 #  Bem-vindo ao meu projeto!
 
-<div>
-<img src="https://github.com/RicardoPrazeres/ProjetoConversorMoeda/assets/43041945/5759be48-2abe-487f-809e-5aebbe2e50d4"width="350" /
-</div>
-
-
-
 ##  Decodificador de Texto
+
+<div>
+<img src="https://github.com/RicardoPrazeres/challengesT6-encriptador/assets/43041945/b80d588b-4038-4435-b83b-6d7e1db17a1e" /
+</div>
 
 **Descrição:**
 
-Converda Real brasileiro em Dólar ou Euro
+Decodificador de texto com JavaScript: escreva um texto e ele será criptografado. Você pode descriptografá-lo ou copiar a mensagem para descriptografar em outro momento. Envie mensagens criptografadas para seus amigos e receba mensagens criptografadas deles também.
 
 **Funcionalidades:**
 
-* Converte Real para Dólar.
-* Converte Real para Euro.
+* Criptografa palavras ou textos.
+* Descriptografa palavras ou textos.
 
 **Tecnologias:**
 
@@ -24,17 +22,18 @@ Converda Real brasileiro em Dólar ou Euro
 
 **Como usar:**
 
-1. Clone o repositório: `git clone https://github.com/RicardoPrazeres/ProjetoConversorMoeda`
-3. Execute no site: https://projeto-conversor-moeda-phi.vercel.app/
+1. Clone o repositório: `git clone https://github.com/RicardoPrazeres/challengesT6-encriptador`
+3. Execute no site: https://ricardoprazeres.github.io/challengesT6-encriptador/
 
+   
 **Contribuições:**
 
 * Sinta-se à vontade para abrir issues e enviar pull requests.
 * Siga o guia de estilo na pasta `docs`.
 
-**Licença:**
+**Agradecimentos:**
 
-MIT
+* Alura + Oracle.
 
 
 **Contato:**

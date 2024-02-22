@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ChallegensT6-Encriptador</title>
+    <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+    <main class="container">
+        <header>
+            <img class="logo" src="img/Logo.png" alt="logo-alura">
+        </header>
+        <section class="container__esquerdo">
+            <div>
+                <textarea class="text-cripto" id="text-cripto" rows="10" placeholder="Digite seu texto" ></textarea>
+            </div>
+            <div class="img-exclamacao">
+                <img src="img/logoExclamacao.png" alt="img-exclamacao">
+            </div>
+            <div class="container__esquerdo__paragrafo">
+                <p class="paragra_esquerdo">Apenas letras minúsculas e sem acento.</p>
+            </div>
+            <div class="container__btns">
+                <button onclick="validarEntrada()" id="btnCriptografar">Criptografar</button>
+                <button onclick="validarEntrada()" id="btnDescriptografar">Descriptografar</button>
+            </div>
+        </section>
+        <section class="container__direito">            
+            <div class="retangulo">                
+            </div>
+            <div>
+                <textarea  class="text-descripto" id="text-descripto" rows="10" placeholder="Nenhuma mensagem"></textarea>
+            </div>
+            <div>
+                <button onclick="" id="btnCopiar">Copiar</button>
+            </div>
+            <div class="img-menino">
+                <img id="ftm" src="img/meninoObservador.svg" alt="">
+            </div>
+            <div class="txtdireito">
+                <h2 id="h2">Nenhuma mensagem encontrada</h2>
+                <p id="ptextditeito" class="paragra_direito">Digite um texto que você deseja criptografar ou descriptografar.</p>
+            </div>
+        </section>            
+        <script src="assets/script.js"></script>
+    </main>           
+</body>   
+    <footer>Desenvolvido por <strong>Ricardo Araujo</strong> © 2024</footer>
+</html>
